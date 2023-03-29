@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172954239933",
+    "project_id": "jmsmartwepet",
+    "storage_bucket": "jmsmartwepet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172954239933:android:a69938ca3ab48187e6c8d4",
+        "android_client_info": {
+          "package_name": "com.example.jmsmart_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172954239933-cj18pplu2thr7qtt1h9tmvegaf73hidi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfk0ChvwR7pKjxVpXuAqUPVCJMLp8-BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172954239933-cj18pplu2thr7qtt1h9tmvegaf73hidi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

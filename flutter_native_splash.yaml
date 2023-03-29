@@ -1,0 +1,4 @@
+flutter_native_splash:
+  color: "#FAFAFA"
+  image: assets/wepet_splash.png
+  fullscreen: true
